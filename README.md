@@ -68,5 +68,14 @@
 
 ---
 
-- 📫 联系我:**1148776553@qq.com**
+## 💻 开源项目：
+1. [Coke API 一个提供 API 接口供开发者调用的平台](https://github.com/chenhhhppp/Coke-API)
+2. [HeartCode 心码 - AI 应用生成平台](https://github.com/chenhhhppp/HeartCode-AI)
+3. [手写 RPC 框架](https://github.com/chenhhhppp/Hand-written-RPC-framework)
+4. [IndexWeb - 仿Linux命令行式的浏览器主页终端](https://github.com/chenhhhppp/IndexWeb)
+5. []()
+
+---
+
+- 📫 联系我: **1148776553@qq.com**
 
