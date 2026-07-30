@@ -33,6 +33,16 @@
 ![MyBatis-Flex](https://img.shields.io/badge/-MyBatis--Flex-000000?style=flat-square&logo=mybatis&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
+### 工具库
+![Lombok](https://img.shields.io/badge/-Lombok-1C3C3C?style=flat-square&logo=lombok&logoColor=white)
+![Hutool](https://img.shields.io/badge/-Hutool-1C3C3C?style=flat-square&logo=java&logoColor=white)
+![Guava](https://img.shields.io/badge/-Guava-1C3C3C?style=flat-square&logo=google&logoColor=white)
+![MapStruct](https://img.shields.io/badge/-MapStruct-1C3C3C?style=flat-square&logo=java&logoColor=white)
+![Jackson](https://img.shields.io/badge/-Jackson-1C3C3C?style=flat-square&logo=java&logoColor=white)
+![Gson](https://img.shields.io/badge/-Gson-1C3C3C?style=flat-square&logo=google&logoColor=white)
+![SLF4J](https://img.shields.io/badge/-SLF4J-1C3C3C?style=flat-square&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+
 ### 前端框架与工具
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -44,11 +54,18 @@
 ### 数据库与中间件
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Etcd](https://img.shields.io/badge/-Etcd-419EDA?style=flat-square&logo=etcd&logoColor=white)
 ![Nacos](https://img.shields.io/badge/-Nacos-00C1DE?style=flat-square&logo=alibabacloud&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/-Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=springcloud&logoColor=white)
+![Sentinel](https://img.shields.io/badge/-Sentinel-22A2C3?style=flat-square&logo=alibabacloud&logoColor=white)
+![Seata](https://img.shields.io/badge/-Seata-22A2C3?style=flat-square&logo=alibabacloud&logoColor=white)
+![Zipkin](https://img.shields.io/badge/-Zipkin-1AD1A5?style=flat-square&logo=zipkin&logoColor=white)
+![SkyWalking](https://img.shields.io/badge/-SkyWalking-00C1DE?style=flat-square&logo=apacheskywalking&logoColor=white)
 
 ### 运维与部署
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
