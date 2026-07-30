@@ -61,6 +61,7 @@
 ![ARMS](https://img.shields.io/badge/-ARMS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
 ### AI / 大模型
 ![Langchain4j](https://img.shields.io/badge/-Langchain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
