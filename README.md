@@ -91,7 +91,12 @@
 2. [HeartCode 心码 - AI 应用生成平台](https://github.com/chenhhhppp/HeartCode-AI)
 3. [手写 RPC 框架](https://github.com/chenhhhppp/Hand-written-RPC-framework)
 4. [IndexWeb - 仿Linux命令行式的浏览器主页终端](https://github.com/chenhhhppp/IndexWeb)
-5. []()
+5. [VidSumAI - AI 视频下载解析神器](https://github.com/chenhhhppp/VidSumAI)
+6. [CoGallery 协图云](https://github.com/chenhhhppp/CoGallery)
+7. [智答 Quiz AI 答题应用平台](https://github.com/chenhhhppp/Quiz-AI)
+8. [Juddy OJ 判题系统](https://github.com/chenhhhppp/JuddyOJ)
+9. [Allso 聚合搜索平台](https://github.com/chenhhhppp/Allso)
+10. [BuddyLink 伙伴匹配平台](https://github.com/chenhhhppp/BuddyLink)
 
 ---
 
