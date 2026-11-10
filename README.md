@@ -31,7 +31,6 @@
 ![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
 ![MyBatis-Plus](https://img.shields.io/badge/-MyBatis--Plus-000000?style=flat-square&logo=mybatis&logoColor=white)
 ![MyBatis-Flex](https://img.shields.io/badge/-MyBatis--Flex-000000?style=flat-square&logo=mybatis&logoColor=white)
-![Spring Data](https://img.shields.io/badge/-Spring%20Data-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### 工具库
 ![Lombok](https://img.shields.io/badge/-Lombok-1C3C3C?style=flat-square&logo=lombok&logoColor=white)
@@ -39,7 +38,6 @@
 ![Guava](https://img.shields.io/badge/-Guava-1C3C3C?style=flat-square&logo=google&logoColor=white)
 ![MapStruct](https://img.shields.io/badge/-MapStruct-1C3C3C?style=flat-square&logo=java&logoColor=white)
 ![Jackson](https://img.shields.io/badge/-Jackson-1C3C3C?style=flat-square&logo=java&logoColor=white)
-![Gson](https://img.shields.io/badge/-Gson-1C3C3C?style=flat-square&logo=google&logoColor=white)
 ![SLF4J](https://img.shields.io/badge/-SLF4J-1C3C3C?style=flat-square&logo=java&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
@@ -48,8 +46,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Element UI](https://img.shields.io/badge/-Element%20UI-409EFF?style=flat-square&logo=element&logoColor=white)
-![Ant Design Vue](https://img.shields.io/badge/-Ant%20Design%20Vue-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-![Ant Design Pro](https://img.shields.io/badge/-Ant%20Design%20Pro-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design%20Pro-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
 ### 数据库与中间件
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -75,7 +72,6 @@
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ### 监控与可观测性
-![ARMS](https://img.shields.io/badge/-ARMS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
@@ -100,5 +96,9 @@
 
 ---
 
-- 📫 联系我: **1148776553@qq.com**
+## 📖 原创文档：
+
+---
+
+- 📫 联系我: **1148776553@qq.com**  **vx: skz0222** 
 
